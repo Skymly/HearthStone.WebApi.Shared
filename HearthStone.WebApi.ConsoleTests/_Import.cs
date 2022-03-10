@@ -1,0 +1,15 @@
+﻿global using System.Threading.Tasks;
+global using System.Reactive;
+global using System.Reactive.Threading.Tasks;
+global using System.Reactive.Linq;
+global using System.Linq;
+global using Newtonsoft.Json;
+global using System;
+global using Newtonsoft.Json.Linq;
+global using HearthStone.Models;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.DependencyInjection;
+global using HearthStone;
+global using HearthStone.WebApi;
